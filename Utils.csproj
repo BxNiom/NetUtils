@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>BxNiom.Utils</AssemblyName>
+        <RootNamespace>BxNiom</RootNamespace>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <UserSecretsId>8354d27c-2dc8-4efd-adb0-6dbe451e2157</UserSecretsId>
+    </PropertyGroup>
+
+</Project>
